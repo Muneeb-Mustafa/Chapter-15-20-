@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+    background-color: #F3EDE5;
+    /* min-height: 80vh; */
+    
+
+}
+.divider{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.651);
+    padding-top: 10px;
+}
+main{
+    padding-bottom: 150px;
+}
+.output-container {
+    max-height: 200px; 
+    overflow-y: auto; 
+}
+
+
+
+
+
